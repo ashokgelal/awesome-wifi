@@ -8,5 +8,8 @@
 * [@jsnyder81](https://twitter.com/jsnyder81)
 * [@adriangranados](https://twitter.com/adriangranados)
 
+### Blog Posts:
+* [What we can expect from 802.11ah?](http://www.wi-fi-experts.blogspot.ca/2016/01/what-we-can-expect-from-80211ah.html)
+
 **Know something/someone that would be a great addition to this list? Awesome! Send me a pull request or let me know over on Twitter: [@ashokgelal](https://twitter.com/ashokgelal)**
 
